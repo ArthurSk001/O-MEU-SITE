@@ -1,2 +1,3 @@
 0505. ♻️ chore: add GitHub actions badge
 0543. ✨ feat: support email verification
+0066. 🔧 refactor: clean up auth middleware
