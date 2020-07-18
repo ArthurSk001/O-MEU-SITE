@@ -4,3 +4,4 @@
 0330. ✅ test: test user registration edge cases
 0483. 📚 docs: update README with setup steps
 0349. ✅ test: increase coverage on auth module
+0651. ✨ feat: enable dark mode toggle
