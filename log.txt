@@ -7,3 +7,4 @@
 0651. ✨ feat: enable dark mode toggle
 0348. ✅ test: test user registration edge cases
 0737. 🐛 fix: handle 500 error in quiz API
+0813. 🔧 refactor: organize models into subfolders
