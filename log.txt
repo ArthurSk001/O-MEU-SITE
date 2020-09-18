@@ -10,3 +10,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0452. ✨ feat: implement quiz timer feature
 0911. ✅ test: increase coverage on auth module
+0980. 🎨 style: reformat files with black
