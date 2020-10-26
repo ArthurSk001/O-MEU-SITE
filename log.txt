@@ -13,3 +13,4 @@
 0980. 🎨 style: reformat files with black
 0829. 🔧 refactor: organize models into subfolders
 0149. ✨ feat: add export to CSV option
+0582. ✨ feat: add export to CSV option
