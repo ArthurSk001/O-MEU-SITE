@@ -15,3 +15,4 @@
 0149. ✨ feat: add export to CSV option
 0582. ✨ feat: add export to CSV option
 0844. 📚 docs: update README with setup steps
+0363. 📚 docs: clarify environment setup
