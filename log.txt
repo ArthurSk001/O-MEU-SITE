@@ -22,3 +22,4 @@
 0524. ♻️ chore: rename env.example
 0622. 🎨 style: apply consistent indentation
 0176. 🔧 refactor: remove redundant code blocks
+0910. 🎨 style: remove trailing whitespace
