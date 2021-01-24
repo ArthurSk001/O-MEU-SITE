@@ -24,3 +24,4 @@
 0176. 🔧 refactor: remove redundant code blocks
 0910. 🎨 style: remove trailing whitespace
 0198. 📚 docs: clarify environment setup
+0547. 📚 docs: write FAQ section
