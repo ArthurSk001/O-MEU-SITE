@@ -27,3 +27,4 @@
 0547. 📚 docs: write FAQ section
 0498. ✅ test: mock database connection in test suite
 0648. ♻️ chore: bump dependencies
+0052. 🎨 style: standardize quote style
