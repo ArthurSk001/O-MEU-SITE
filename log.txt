@@ -35,3 +35,4 @@
 0539. 🔧 refactor: organize models into subfolders
 0549. ✨ feat: enable dark mode toggle
 0212. 🎨 style: standardize quote style
+0711. 🐛 fix: fix broken CSS in mobile view
