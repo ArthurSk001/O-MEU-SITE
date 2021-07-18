@@ -36,3 +36,4 @@
 0549. ✨ feat: enable dark mode toggle
 0212. 🎨 style: standardize quote style
 0711. 🐛 fix: fix broken CSS in mobile view
+0929. ✨ feat: support email verification
