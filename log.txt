@@ -39,3 +39,4 @@
 0929. ✨ feat: support email verification
 0334. 🚀 perf: cache repeated calculations
 0480. ♻️ chore: add GitHub actions badge
+0451. ✨ feat: support email verification
