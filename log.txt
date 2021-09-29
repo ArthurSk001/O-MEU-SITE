@@ -43,3 +43,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0822. 🔧 refactor: remove redundant code blocks
 0839. 🎨 style: apply consistent indentation
+0563. 📚 docs: clarify environment setup
