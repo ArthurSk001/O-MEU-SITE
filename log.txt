@@ -48,3 +48,4 @@
 0351. ✨ feat: add export to CSV option
 0015. ✨ feat: implement quiz timer feature
 0014. 🔧 refactor: remove redundant code blocks
+0002. 🚀 perf: cache repeated calculations
