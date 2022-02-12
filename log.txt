@@ -54,3 +54,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0686. 🎨 style: standardize quote style
 0446. 🎨 style: apply consistent indentation
+0323. 📚 docs: clarify environment setup
