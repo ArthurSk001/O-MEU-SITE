@@ -55,3 +55,4 @@
 0686. 🎨 style: standardize quote style
 0446. 🎨 style: apply consistent indentation
 0323. 📚 docs: clarify environment setup
+0091. ✨ feat: add user authentication
