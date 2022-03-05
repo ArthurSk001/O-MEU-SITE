@@ -56,3 +56,4 @@
 0446. 🎨 style: apply consistent indentation
 0323. 📚 docs: clarify environment setup
 0091. ✨ feat: add user authentication
+0009. ✨ feat: enable dark mode toggle
