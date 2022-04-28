@@ -64,3 +64,4 @@
 0051. ✨ feat: enable dark mode toggle
 0959. 🐛 fix: fix null pointer exception on login
 0869. ♻️ chore: bump dependencies
+0931. 🚀 perf: reduce image load time
