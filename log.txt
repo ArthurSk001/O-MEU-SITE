@@ -69,3 +69,4 @@
 0295. 🎨 style: remove trailing whitespace
 0590. 🐛 fix: fix null pointer exception on login
 0375. 🐛 fix: handle 500 error in quiz API
+0388. 🎨 style: reformat files with black
