@@ -72,3 +72,4 @@
 0388. 🎨 style: reformat files with black
 0846. ✨ feat: implement quiz timer feature
 0610. 🚀 perf: lazy-load components
+0412. ✅ test: increase coverage on auth module
