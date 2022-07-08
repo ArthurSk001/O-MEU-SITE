@@ -73,3 +73,4 @@
 0846. ✨ feat: implement quiz timer feature
 0610. 🚀 perf: lazy-load components
 0412. ✅ test: increase coverage on auth module
+0779. 🔧 refactor: organize models into subfolders
