@@ -75,3 +75,4 @@
 0412. ✅ test: increase coverage on auth module
 0779. 🔧 refactor: organize models into subfolders
 0536. ✨ feat: add user authentication
+0833. ✨ feat: add user authentication
