@@ -77,3 +77,4 @@
 0536. ✨ feat: add user authentication
 0833. ✨ feat: add user authentication
 0228. 🔧 refactor: remove redundant code blocks
+0471. ✨ feat: support email verification
