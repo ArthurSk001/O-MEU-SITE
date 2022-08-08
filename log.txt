@@ -79,3 +79,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0471. ✨ feat: support email verification
 0110. 🐛 fix: prevent crash on empty input
+0172. 📚 docs: add API usage examples
