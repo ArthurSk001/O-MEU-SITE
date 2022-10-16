@@ -93,3 +93,4 @@
 0360. ✨ feat: add export to CSV option
 0914. ✅ test: test user registration edge cases
 0712. 🎨 style: apply consistent indentation
+0672. 🐛 fix: fix broken CSS in mobile view
