@@ -99,3 +99,4 @@
 0210. 🎨 style: apply consistent indentation
 0044. ✅ test: add unit test for quiz service
 0626. 🎨 style: standardize quote style
+0205. 📚 docs: update README with setup steps
