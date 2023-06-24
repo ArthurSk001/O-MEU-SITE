@@ -118,3 +118,4 @@
 0519. 📚 docs: document token refresh logic
 0870. ♻️ chore: clean up unused files
 0379. ✨ feat: support email verification
+0878. 🔧 refactor: split large controller into smaller functions
