@@ -120,3 +120,4 @@
 0379. ✨ feat: support email verification
 0878. 🔧 refactor: split large controller into smaller functions
 0952. 🔧 refactor: split large controller into smaller functions
+0432. 🎨 style: apply consistent indentation
