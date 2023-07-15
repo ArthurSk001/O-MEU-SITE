@@ -123,3 +123,4 @@
 0432. 🎨 style: apply consistent indentation
 0418. ✅ test: mock database connection in test suite
 0263. 📚 docs: add API usage examples
+0101. 📚 docs: clarify environment setup
