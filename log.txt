@@ -140,3 +140,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0609. 🐛 fix: handle 500 error in quiz API
 0826. 📚 docs: clarify environment setup
+0816. 🔧 refactor: organize models into subfolders
