@@ -145,3 +145,4 @@
 0132. ✅ test: add unit test for quiz service
 0324. 📚 docs: document token refresh logic
 0525. ✅ test: mock database connection in test suite
+0542. 🔧 refactor: organize models into subfolders
