@@ -152,3 +152,4 @@
 0160. ♻️ chore: bump dependencies
 0410. 🎨 style: reformat files with black
 0875. ✅ test: increase coverage on auth module
+0215. 🎨 style: reformat files with black
