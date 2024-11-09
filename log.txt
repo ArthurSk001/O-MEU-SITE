@@ -168,3 +168,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0650. ✅ test: add unit test for quiz service
 0783. 🐛 fix: handle 500 error in quiz API
+0949. 📚 docs: write FAQ section
