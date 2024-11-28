@@ -171,3 +171,4 @@
 0949. 📚 docs: write FAQ section
 0724. ✅ test: mock database connection in test suite
 0992. ♻️ chore: clean up unused files
+0897. 🐛 fix: prevent crash on empty input
