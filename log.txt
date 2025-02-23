@@ -178,3 +178,4 @@
 0406. ✨ feat: add export to CSV option
 0435. ✅ test: add unit test for quiz service
 0573. ✅ test: add integration test for /submit endpoint
+0533. ♻️ chore: add GitHub actions badge
