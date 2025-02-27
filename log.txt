@@ -179,3 +179,4 @@
 0435. ✅ test: add unit test for quiz service
 0573. ✅ test: add integration test for /submit endpoint
 0533. ♻️ chore: add GitHub actions badge
+0898. 🐛 fix: fix broken CSS in mobile view
