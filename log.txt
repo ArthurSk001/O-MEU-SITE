@@ -182,3 +182,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0301. 🎨 style: apply consistent indentation
 0630. 🚀 perf: lazy-load components
+0377. ✨ feat: add user authentication
