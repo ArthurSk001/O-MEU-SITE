@@ -195,3 +195,4 @@
 0155. ✨ feat: create admin dashboard
 0684. 🚀 perf: reduce image load time
 0316. 🐛 fix: fix broken CSS in mobile view
+0762. 🚀 perf: lazy-load components
